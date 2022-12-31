@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e321c309-cbd7-4d2a-b108-1522a30703e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Employee_Wage_Computation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee_Wage_Computation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee_Wage_Computation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,14 @@
     "last_opened_file_path": "D:/Codes/Day_3_Problems_Answers/Day_3_Problems_AnswersJ/src/Employee_Wage_Computation.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Employee_Wage_Computation">
+    <configuration name="Employee_Wage_Computation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee_Wage_Computation" />
+      <module name="Day_3_Problems_AnswersJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Line_Comparison_Computation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Line_Comparison_Computation" />
       <module name="Day_3_Problems_AnswersJ" />
@@ -52,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee_Wage_Computation" />
         <item itemvalue="Application.Line_Comparison_Computation" />
       </list>
     </recent_temporary>
