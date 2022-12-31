@@ -35,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Codes/Day_3_Problems_Answers/Day_3_Problems_AnswersJ/src/Employee_Wage_Computation.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Codes/Day_3_Problems_Answers/Day_3_Problems_AnswersJ/src/Employee_Wage_Computation.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Employee_Wage_Computation">
     <configuration name="Employee_Wage_Computation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Employee_Wage_Computation" />
